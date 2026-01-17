@@ -86,7 +86,7 @@ form button {
 .intro-bg {
   background-image:
     linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)),
-    url("images/cable-bundle-1080.jpg");
+    url("image/intro-bg.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -129,14 +129,14 @@ form button {
 #mission {
   background-image:
     linear-gradient(rgba(49, 250, 150, 0.95), rgba(249, 254, 252, 0.95)),
-    url("image/mission\ &\ vision-bg.jpg");
+    url("image/mission-vision-bg.jpg");
   background-size: cover;
   background-position: center;
 }
 #contact{
   background-image:
     linear-gradient(rgba(49, 250, 150, 0.95), rgba(249, 254, 252, 0.95)),
-    url("image/contact\ us-bg.jpeg");
+    url("image/contact-us-bg.jpeg");
   background-size: cover;
   background-position: center;
 }
